@@ -119,7 +119,19 @@ router-routing-engine/
 ```
 
 ---
+# Sample Outputs
 
+## Routing Table
+![Routing Table](sample_outputs/routing_table.png)
+
+## Successful Packet Routing
+![Packet Routing](sample_outputs/packet_trace.png)
+
+## Packet Diagnostics
+![Packet Drop](sample_outputs/router_disabled.png)
+
+## Routing Statistics
+![Routing Statistics](sample_outputs/router_statistics.png)
 # Future Enhancements
 
 - Trie-based route optimization
